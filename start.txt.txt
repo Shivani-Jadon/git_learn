@@ -1,3 +1,9 @@
 Web Development
 Git
 Learn Git
+Git Comamnds:
+init
+add
+commit
+branch
+merge
